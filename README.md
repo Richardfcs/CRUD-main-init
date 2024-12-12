@@ -1,7 +1,10 @@
 Importações:
  ■ npm init -y
+ 
  ■ npm install -G typescript
+ 
  ■ npm i -D tsx
+ 
  ○ npx tsc --init
  ○ npx gitignore node
  ○ npm i -D ts-node-dev
